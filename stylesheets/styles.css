@@ -529,8 +529,8 @@ table {
 }
 
 body {
-  padding: 0px 0 20px 0px;
-  margin: 0px;
+  padding: 0px 0 0px 0px;
+  margin: -80px 0px 0 0px;
   font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f0e7d5;
   font-weight: normal;
@@ -789,7 +789,7 @@ section {
 section #title {
   border: 0;
   outline: none;
-  margin: 0 0 50px 0;
+  margin: 0 0 20px 0;
   padding: 0 0 5px 0;
 }
 section #title h1 {
